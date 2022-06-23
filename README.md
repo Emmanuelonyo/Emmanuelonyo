@@ -5,8 +5,10 @@
   <a href="https://twitter.com/emmanue97313084">Twitter</a> •
   <a href="https://www.linkedin.com/in/emmanuel-onyo-3743a3129/">Linkedin</a>
 </p>
+<p align="center">
 - 🔭 I’m currently working on Suretrip Nigeria
 - 🌱 I’m currently learning Reactjs
+<p>
 <!--
 **Emmanuelonyo/Emmanuelonyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
