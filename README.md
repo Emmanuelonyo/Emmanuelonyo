@@ -28,6 +28,7 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - Laravel ✅
 - Vanila PHP ✅
 - Node.js ✅
+- Vue js ⏳
 - React ⏳
 - React Native ⏳
 - TypeScript ⏳
