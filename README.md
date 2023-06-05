@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!! welcome !!!! the name's Emmanuel Onyo, for the most part I'm a Backend Engineer but I do anything revolving around the web using JavaScript and PHP with the right motivation :new_moon_with_face:.
+Hello!! welcome !!!! the name's Emmanuel Onyo, for the most part I'm a Software Engineer but I do anything revolving around the web using JavaScript and PHP with the right motivation :new_moon_with_face:.
 
 #### What I work on these days :briefcase:
 
@@ -28,12 +28,12 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - Laravel ✅
 - Vanila PHP ✅
 - Node.js ✅
+- TypeScript ✅
+- System architechture ⏳
+- Blockchain Development/web3 ⏳
 - Vue js ⏳
 - React ⏳
 - React Native ⏳
-- TypeScript ⏳
-- Blockchain Development/web3 ⏳
-- System architechture ⏳
 
 
 #### You can ask me about :fax:
@@ -41,8 +41,6 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - JavaScript
 - PHP
 - Nodejs
-- CSS
-- Browsers
 - Technology trends
 
 <p align="center">
