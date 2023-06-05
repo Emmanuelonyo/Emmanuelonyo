@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Emmanuel Onyo 👋
 
 <!--
 **Emmanuelonyo/Emmanuelonyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!! welcome !!!! the name's Emmanuel Onyo, for the most part I'm a Software Engineer but I do anything revolving around the web using JavaScript and PHP with the right motivation :new_moon_with_face:.
+Hello There!! welcome !!!! the name is Emmanuel Onyo, for the most part He's a Software/Cloud Engineer but he does anything revolving around the web and cloud using tools like Terraform, Insible, JavaScript, PHP and Python as well as any new tool learnable with the right motivation :new_moon_with_face:.
 
-#### What I work on these days :briefcase:
+#### What He works on these days :briefcase:
 
-Aside from thinking about my next super cool Open Source project, I build tiny demo apps to solve problems I have as a developer or in my every day life.
+Aside from building his future giant tech company and startups, Emmanuel Onyo is also passionate about building super cool open source projects and tiny apps that solves problems they have as a developer or in my every day life. 
 
-#### What I'm learning :book:
+#### What He's learning :book:
 
-Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I am currently working with.
+Everyday he thinks about how it would feel like to have a diverse skillset across various stacks in tech, and so he figured he might as well just start now, Here's a list of technologies/tools/concepts he is currently working with.
 
-- Laravel ✅
-- Vanila PHP ✅
-- Node.js ✅
+- PHP/Laravel ✅
+- Node.js: Express.js,  Nest.js ✅
 - TypeScript ✅
+- Terraform ✅
+- Docker ✅
+- Kubernates✅
+- Azure ✅
 - System architechture ⏳
 - Blockchain Development/web3 ⏳
 - Vue js ⏳
@@ -41,6 +44,8 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 - JavaScript
 - PHP
 - Nodejs
+- Automation
+- Azure Cloud Infrastructures
 - Technology trends
 
 <p align="center">
