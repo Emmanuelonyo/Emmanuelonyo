@@ -15,45 +15,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello There!! welcome !!!! the name is Emmanuel Onyo, for the most part He's a Software/Cloud Engineer but he does anything revolving around the web and cloud using tools like Terraform, Insible, JavaScript, PHP and Python as well as any new tool learnable with the right motivation :new_moon_with_face:.
+👋 Welcome to my GitHub profile!
 
-#### What He works on these days :briefcase:
+I'm Emmanuel Onyo, a Software/Cloud Engineer with a passion for web and cloud technologies. I specialize in using tools like Terraform, Powershell, JavaScript, PHP, and Python to build innovative solutions. I'm always motivated to learn new tools and technologies to expand my skillset.
 
-Aside from building his future giant tech company and startups, Emmanuel Onyo is also passionate about building super cool open source projects and tiny apps that solves problems they have as a developer or in my every day life. 
+🌱 Currently, I'm focusing on:
 
-#### What He's learning :book:
+- Building my future tech company and startups
+- Creating open-source projects and apps that solve real-world problems
+- Diversifying my skillset across various tech stacks
 
-Everyday he thinks about how it would feel like to have a diverse skillset across various stacks in tech, and so he figured he might as well just start now, Here's a list of technologies/tools/concepts he is currently working with.
+💼 Here are some key areas of expertise:
 
-- PHP/Laravel ✅
-- Node.js: Express.js,  Nest.js ✅
-- TypeScript ✅
-- Terraform ✅
-- Docker ✅
-- Kubernates✅
-- Azure ✅
-- System architechture ⏳
-- Blockchain Development/web3 ⏳
-- Vue js ⏳
-- React ⏳
-- React Native ⏳
-
-
-#### You can ask me about :fax:
-
+- Azure Cloud Infrastructures
+- Software Automations
+- Backend Engineering 
 - JavaScript
 - PHP
-- Nodejs
-- Automation
-- Azure Cloud Infrastructures
+- Python
 - Technology trends
 
-<p align="center">
-  <a href="https://emmanuelonyo.dev">🌐 Website</a> •
-  <a href="https://twitter.com/emmanue97313084">Twitter</a> •
-  <a href="https://www.linkedin.com/in/emmanuel-onyo-3743a3129/">Linkedin</a>
-  <a href="mailto:emmanuelonyo34@gmail.com">Email</a>
-</p>
+📚 Technologies and tools I'm currently working with:
+
+- PHP/Laravel
+- Node.js: Express.js, Nest.js
+- TypeScript
+- Terraform
+- Terragrun
+- Powershell
+- Docker
+- Kubernetes
+- Azure
+- System architecture (in progress)
+- Blockchain Development/web3 (in progress)
+- React (in progress)
+- React Native (in progress)
+
+🌐 You can find more about me and my work on my [website](https://emmanuelonyo.dev). Feel free to connect with me on [Twitter](https://twitter.com/emmanue97313084) and [LinkedIn](https://www.linkedin.com/in/emmanuel-onyo-3743a3129/). You can also reach out to me via email at [emmanuelonyo34@gmail.com](mailto:emmanuelonyo34@gmail.com).
+
+---
+Thank you for considering my profile! I look forward to connecting with you and discussing potential opportunities.
 
 
 
