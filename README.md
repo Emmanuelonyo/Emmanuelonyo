@@ -28,30 +28,28 @@ I'm Emmanuel Onyo, a Software/Cloud Engineer with a passion for web and cloud te
 💼 Here are some key areas of expertise:
 
 - Azure Cloud Infrastructures
-- Software Automations
-- Backend Engineering 
-- JavaScript
-- PHP
-- Python
+- AWS Cloud Inffrastructures 
+- Software Engineering / Automations
 - Technology trends
 
 📚 Technologies and tools I'm currently working with:
 
-- PHP/Laravel
 - Node.js: Express.js, Nest.js
 - TypeScript
+- Python
+- Flask
+- Vue JS
+  
 - Terraform
 - Terragrun
 - Powershell
+- Ansible
 - Docker
 - Kubernetes
-- Azure
 - System architecture (in progress)
 - Blockchain Development/web3 (in progress)
-- React (in progress)
-- React Native (in progress)
 
-🌐 You can find more about me and my work on my [website](https://emmanuelonyo.dev). Feel free to connect with me on [Twitter](https://twitter.com/emmanue97313084) and [LinkedIn](https://www.linkedin.com/in/emmanuel-onyo-3743a3129/). You can also reach out to me via email at [emmanuelonyo34@gmail.com](mailto:emmanuelonyo34@gmail.com).
+🌐 You can find more about me and my work on my [website](https://emmanuelonyo.dev). Feel free to connect with me on [Twitter](https://twitter.com/emmanuelonyo) and [LinkedIn](https://www.linkedin.com/in/emmanuelonyo). You can also reach out to me via email at [emmanuelonyo34@gmail.com](mailto:emmanuelonyo34@gmail.com).
 
 ---
 Thank you for considering my profile! I look forward to connecting with you and discussing potential opportunities.
