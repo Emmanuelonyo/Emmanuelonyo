@@ -1,58 +1,32 @@
-### About Emmanuel Onyo 👋
+# Hi there, I'm Emmanuel! 👋
 
-<!--
-**Emmanuelonyo/Emmanuelonyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about programming, technology, and continuous learning. Here's a bit about me and what I do:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I'm a software developer with a strong interest in web development and data science.
+- 🎓 I hold a degree in Computer Science and have experience working with multiple programming languages and frameworks.
+- 🌱 I’m currently learning more about machine learning and artificial intelligence.
+- 💬 Ask me about JavaScript, Python, and React.
+- 📫 How to reach me: emmanuelonyo@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java, C++, TypeScript, C#, PHP
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps & Cloud:** Terraform, Ansible, Azure, AWS
+- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, Jira, Azure DevOps (ADO)
+- **Messaging & Queuing:** RabbitMQ, SNS, Event Queue, Event Hub
 
-👋 Welcome to my GitHub profile!
+## 📈 GitHub Stats
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuelonyo&show_icons=true&theme=radical)
 
-I'm Emmanuel Onyo, a Software/Cloud Engineer with a passion for web and cloud technologies. I specialize in using tools like Terraform, Powershell, JavaScript, PHP, and Python to build innovative solutions. I'm always motivated to learn new tools and technologies to expand my skillset.
+## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=awesome-project)](https://github.com/Emmanuelonyo/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=another-cool-project)](https://github.com/Emmanuelonyo/another-cool-project)
 
-🌱 Currently, I'm focusing on:
+## 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/emmanuelonyo)
+- [Twitter](https://twitter.com/emmanuelonyo)
+- [Personal Website](https://emmanuelonyo.dev)
 
-- Building my future tech company and startups
-- Creating open-source projects and apps that solve real-world problems
-- Diversifying my skillset across various tech stacks
-
-💼 Here are some key areas of expertise:
-
-- Azure Cloud Infrastructures
-- AWS Cloud Inffrastructures 
-- Software Engineering / Automations
-- Technology trends
-
-📚 Technologies and tools I'm currently working with:
-
-- Node.js: Express.js, Nest.js
-- TypeScript
-- Python
-- Flask
-- Vue JS
-  
-- Terraform
-- Terragrun
-- Powershell
-- Ansible
-- Docker
-- Kubernetes
-- System architecture (in progress)
-- Blockchain Development/web3 (in progress)
-
-🌐 You can find more about me and my work on my [website](https://emmanuelonyo.dev). Feel free to connect with me on [Twitter](https://twitter.com/emmanuelonyo) and [LinkedIn](https://www.linkedin.com/in/emmanuelonyo). You can also reach out to me via email at [emmanuelonyo34@gmail.com](mailto:emmanuelonyo34@gmail.com).
-
----
-Thank you for considering my profile! I look forward to connecting with you and discussing potential opportunities.
-
-
-
+Thanks for visiting my profile! 😊
