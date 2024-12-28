@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about programming, technology, and 
 - 🎓 I hold a degree in Computer Science and have experience working with multiple programming languages and frameworks.
 - 🌱 I’m currently learning more about machine learning and artificial intelligence.
 - 💬 Ask me about JavaScript, Python, and React.
-- 📫 How to reach me: emmanuelonyo@example.com
+- 📫 How to reach me: emmanuel.onyo@cloudnolix.com
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Java, C++, TypeScript, C#, PHP
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about programming, technology, and 
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=cngn-typescript-library)](https://github.com/Emmanuelonyo/cngn-typescript-library)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=another-cool-project)](https://github.com/Emmanuelonyo/another-cool-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=aws-ses-terraform)](https://github.com/Emmanuelonyo/aws-ses-terraform)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/emmanuelonyo)
