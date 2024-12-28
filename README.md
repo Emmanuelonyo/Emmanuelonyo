@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about programming, technology, and 
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuelonyo&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=awesome-project)](https://github.com/Emmanuelonyo/cngn-typescript-library)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=cngn-typescript-library)](https://github.com/Emmanuelonyo/cngn-typescript-library)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Emmanuelonyo&repo=another-cool-project)](https://github.com/Emmanuelonyo/another-cool-project)
 
 ## 🔗 Connect with Me
